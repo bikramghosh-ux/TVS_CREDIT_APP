@@ -1,0 +1,10 @@
+librosa
+matplotlib
+numpy
+opencv_python
+pandas
+Pillow
+scipy
+seaborn
+streamlit
+tensorflow-cpu
