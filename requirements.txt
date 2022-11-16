@@ -7,4 +7,4 @@ Pillow
 scipy
 seaborn
 streamlit
-tensorflow-cpu
+tensorflow
