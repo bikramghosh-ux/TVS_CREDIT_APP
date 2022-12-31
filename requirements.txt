@@ -7,7 +7,7 @@ Pillow
 scipy
 seaborn
 streamlit
-google-cloud-logging==3.1.1
-protobuf==3.18.*
+google-cloud-audit-log==0.2.4
+protobuf
 tensorflow==2.9.1
 
