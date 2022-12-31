@@ -1,5 +1,4 @@
 libsndfile
-librosa
 matplotlib
 numpy
 pandas
