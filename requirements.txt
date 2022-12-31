@@ -8,4 +8,4 @@ scipy
 seaborn
 streamlit
 tensorflow
-protobuf
+protobuf==3.20.*
