@@ -10,4 +10,5 @@ streamlit
 google-cloud-audit-log==0.2.4
 protobuf
 tensorflow==2.9.1
+libsndfile
 
