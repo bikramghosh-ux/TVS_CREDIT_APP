@@ -1,3 +1,4 @@
+libsndfile
 librosa
 matplotlib
 numpy
