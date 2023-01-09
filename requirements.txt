@@ -6,6 +6,6 @@ Pillow==9.4.0
 scipy==1.7.3
 seaborn==0.12.2
 streamlit==1.16.0
-tensorflow==2.11.0
+tensorflow
 
 
